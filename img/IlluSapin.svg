@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103.373" height="114" viewBox="0 0 103.373 114">
+  <g id="IlluSapin" transform="translate(0 -0.798)">
+    <g id="Homepage" transform="translate(0 0.5)">
+      <g id="undraw_winter_magic_5xu2">
+        <ellipse id="Oval" cx="2.188" cy="6.963" rx="2.188" ry="6.963" transform="translate(79.96 91.836) rotate(-88.617)" fill="#2f2e41"/>
+        <path id="Path" d="M6.658,4.7A14.462,14.462,0,0,1,0,.768,15.181,15.181,0,0,1,7.839.342,14.462,14.462,0,0,1,14.5,4.275,15.181,15.181,0,0,1,6.658,4.7Z" transform="translate(0.63 50.636)" fill="#22a697"/>
+        <path id="Shape" d="M0,.912l.25-.1A14.8,14.8,0,0,1,8.2.362a14.721,14.721,0,0,1,6.753,4.2l.173.2-.25.1a14.8,14.8,0,0,1-7.951.454h0a14.72,14.72,0,0,1-6.753-4.2ZM14.474,4.594A14.245,14.245,0,0,0,8.107.729a14.3,14.3,0,0,0-7.453.35A14.244,14.244,0,0,0,7.021,4.944a14.3,14.3,0,0,0,7.453-.35Z" transform="translate(0 49.375)" fill="#3f3d56"/>
+        <path id="Path-2" data-name="Path" d="M69.335,59.306c.013,26.11-15.5,35.233-34.651,35.242q-.667,0-1.328-.014-1.331-.028-2.634-.12C13.443,93.2.012,83.622,0,59.34-.012,34.21,32.089,2.482,34.5.136c0,0,0,0,0,0L34.639,0S69.323,33.2,69.335,59.306Z" transform="translate(28.995 19.75)" fill="#ff8693"/>
+        <path id="Path-3" data-name="Path" d="M13.924,90.569,26.564,72.844,13.893,92.514l-.033,2.034q-1.328-.028-2.628-.12L12.582,68.3l-.011-.2.023-.038.128-2.469L0,45.887,12.76,63.744l.032.524,1.02-19.739L2.919,24.164l11.025,16.9L15,.136,15,0V.134l-.163,32.273,10.826-12.8L14.793,35.186,14.515,52.86,24.625,35.894,14.475,55.459l-.154,9.828L28.995,41.67,14.265,68.715Z" transform="translate(48.535 19.75)" fill="#3f3d56"/>
+        <ellipse id="Oval-2" data-name="Oval" cx="1" cy="1.5" rx="1" ry="1.5" transform="translate(11.373 2.298)" fill="#fff"/>
+        <ellipse id="Oval-3" data-name="Oval" cx="1" cy="0.5" rx="1" ry="0.5" transform="translate(18.373 26.298)" fill="#fff"/>
+        <ellipse id="Oval-4" data-name="Oval" cx="1" cy="0.5" rx="1" ry="0.5" transform="translate(67.373 32.299)" fill="#fff"/>
+        <ellipse id="Oval-5" data-name="Oval" cx="1" cy="0.5" rx="1" ry="0.5" transform="translate(101.373 58.299)" fill="#fff"/>
+        <ellipse id="Oval-6" data-name="Oval" cx="1" cy="1.5" rx="1" ry="1.5" transform="translate(80.373 75.298)" fill="#fff"/>
+        <ellipse id="Oval-7" data-name="Oval" cx="1.5" cy="1" rx="1.5" ry="1" transform="translate(34.373 81.298)" fill="#fff"/>
+        <circle id="Oval-8" data-name="Oval" cx="1.5" cy="1.5" r="1.5" transform="translate(57.373 0.298)" fill="#fff"/>
+        <ellipse id="Oval-9" data-name="Oval" cx="2" cy="2.5" rx="2" ry="2.5" transform="translate(50.373 91.298)" fill="#fff"/>
+        <ellipse id="Oval-10" data-name="Oval" cx="2.5" cy="2" rx="2.5" ry="2" transform="translate(90.373 28.298)" fill="#fff"/>
+        <ellipse id="Oval-11" data-name="Oval" cx="1.5" cy="2" rx="1.5" ry="2" transform="translate(41.373 54.299)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

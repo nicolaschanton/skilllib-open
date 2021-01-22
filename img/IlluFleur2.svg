@@ -1,0 +1,18 @@
+<svg id="IlluFleur2" xmlns="http://www.w3.org/2000/svg" width="350" height="479" viewBox="0 0 350 479">
+  <g id="Homepage">
+    <g id="undraw_things_to_say_ewwb-copy">
+      <ellipse id="Oval" cx="22.5" cy="21" rx="22.5" ry="21" transform="translate(161 14)" fill="#ff8693"/>
+      <ellipse id="Oval-2" data-name="Oval" cx="22" cy="21" rx="22" ry="21" transform="translate(63 189)" fill="#ff8693"/>
+      <ellipse id="Oval-3" data-name="Oval" cx="21" cy="21" rx="21" ry="21" transform="translate(133 147)" fill="#ff8693"/>
+      <path id="Path" d="M152.084,460.943c.366-.625,9-15.68,11.994-46.943,2.746-28.682.98-77.027-23.03-144.465C95.561,141.78,151.53,38.7,152.1,37.673L149.341,36c-.145.26-14.587,26.542-23.119,68.391A310.844,310.844,0,0,0,138.056,270.7c45.409,127.538,11.65,187.913,11.3,188.509Z" transform="translate(5.253 18.056)" fill="#3f3d56"/>
+      <path id="Shape" d="M126.524,42.044c12.439,0,22.524-9.412,22.524-21.022S138.963,0,126.524,0,104,9.412,104,21.022s10.09,21.009,22.523,21.022Zm0-39.041c10.662,0,19.306,8.067,19.306,18.019s-8.644,18.019-19.306,18.019-19.306-8.067-19.306-18.019S115.866,3.015,126.524,3Z" transform="translate(45.278)" fill="#3f3d56"/>
+      <ellipse id="Oval-4" data-name="Oval" cx="22.5" cy="21" rx="22.5" ry="21" transform="translate(84 77)" fill="#23a596"/>
+      <path id="Shape-2" data-name="Shape" d="M142.524,133.044c12.439,0,22.523-9.412,22.523-21.022S154.963,91,142.524,91,120,100.412,120,112.022s10.09,21.009,22.524,21.022Zm0-39.041c10.662,0,19.306,8.067,19.306,18.019s-8.644,18.019-19.306,18.019-19.306-8.067-19.306-18.019S131.866,94.014,142.524,94Z" transform="translate(5.253 45.643)" fill="#3f3d56"/>
+      <path id="Shape-3" data-name="Shape" d="M176.524,162.044c12.439,0,22.523-9.412,22.523-21.022S188.963,120,176.524,120,154,129.412,154,141.022,164.09,162.031,176.524,162.044Zm0-39.041c10.662,0,19.306,8.067,19.306,18.019s-8.644,18.019-19.306,18.019-19.306-8.067-19.306-18.019S165.866,123.014,176.524,123Z" transform="translate(-79.801 60.188)" fill="#3f3d56"/>
+      <ellipse id="Oval-5" data-name="Oval" cx="22" cy="21" rx="22" ry="21" transform="translate(145 248)" fill="#23a596"/>
+      <path id="Path-2" data-name="Path" d="M179.71,343.6S200.565,291.255,138,252Z" transform="translate(-39.776 126.395)" fill="#3f3d56"/>
+      <path id="Path-3" data-name="Path" d="M62,332.561S71.965,273.5,149.091,274Z" transform="translate(108.3 137.429)" fill="#3f3d56"/>
+      <rect id="Rectangle" width="350" height="9" transform="translate(0 470)" fill="#3f3d56"/>
+    </g>
+  </g>
+</svg>
